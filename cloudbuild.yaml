@@ -10,6 +10,6 @@ steps:
       - 'run'
       - 'deploy'
       - 'my-cloudrun-service'
-      - '--image=gcr.io/[YOUR-PROJECT-ID]/my-cloudrun-app'
+      - '--image=gcr.io/bold-listener-320807/my-cloudrun-app'
       - '--platform=managed'
       - '--region=us-east1'
